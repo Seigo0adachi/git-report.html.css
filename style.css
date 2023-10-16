@@ -16,16 +16,16 @@ header {
 }
 header .heading a {
   color: #fff;
-  padding-top: 10px;
 }
 header .headingn {
   font-size: 32px;
+  padding-top: 10px;
 }
 .heading a {
   text-decoration: none;
 }
 .nav-list {
-  padding-top: 10px 0;
+  padding: 10px 0;
 }
 .nav-list-item {
   color: #fff;
@@ -75,15 +75,11 @@ main {
   display: flex;
   flex-wrap: wrap;
 }
-.social {
-  position: relative;
-  left: 140px;
-}
-.social i {
+
+.row i {
   display: inline-block;
   flex-wrap: wrap;
   margin: 0 20px 20px 0;
-  
 }
 body {
   background-color: #ecfcdf;

@@ -68,9 +68,7 @@ main {
   font-weight: bold;
   width: 100px;
 }
-.self-text {
-  width: 85%;
-}
+
 .row {
   display: flex;
   flex-wrap: wrap;
@@ -108,7 +106,7 @@ footer {
   }
   .nav-list-item {
     color: #fff;
-    display: block;
+    display: inline-block;
     margin: 0 20px;
   }
   .yoko-image-box {
